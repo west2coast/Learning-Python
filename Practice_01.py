@@ -4,7 +4,6 @@ Date: 09/23/17
 Exercise: 1.11 (problem taken from C++ book)
 """
 
-
 currentPop = 325365189
 minuteSeconds = 60
 hourSeconds = 60 * minuteSeconds
